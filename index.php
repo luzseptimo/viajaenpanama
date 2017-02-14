@@ -2,10 +2,9 @@
 <html>
   <head>
     <link type='text/css' rel='stylesheet' href='style.css'/>
-    <title>PHP!</title>
+    <title>Viaja En Panama</title>
   </head>
   <body>
-   // <img src="http://i1061.photobucket.com/albums/t480/ericqweinstein/php-logo_zps408c82d7.png"/>//
     <div class="header"><h1>
       <?php
       $welcome = "Bienvenido a Viaja En Panamá!";
