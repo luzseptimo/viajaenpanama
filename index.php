@@ -5,10 +5,10 @@
     <title>PHP!</title>
   </head>
   <body>
-    <img src="http://i1061.photobucket.com/albums/t480/ericqweinstein/php-logo_zps408c82d7.png"/>
+   // <img src="http://i1061.photobucket.com/albums/t480/ericqweinstein/php-logo_zps408c82d7.png"/>//
     <div class="header"><h1>
       <?php
-      $welcome = "Let's get started with PHP!";
+      $welcome = "Bienvenido a Viaja En Panamá!";
       echo $welcome;
       ?>
     </h1></div>
