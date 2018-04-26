@@ -10,17 +10,7 @@
       $welcome = "Bienvenido a Viaja En Panamá!";
       echo $welcome;
       ?>
-    </h1></div>
-    <p><strong>Generate a list:</strong>
-      <?php
-      for ($number = 1; $number <= 10; $number++) {
-        if ($number <= 9) {
-            echo $number . ", ";
-        } else {
-            echo $number . "!";
-        }
-      }; ?>
-    </p>
+    
     <p><strong>Things you can do:</strong>
       <?php
         $things = array("Talk to databases",
