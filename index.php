@@ -10,7 +10,7 @@
       $welcome = "Bienvenido a Viaja En Panamá!";
       echo $welcome;
       ?>
-    
+      </h1>
     <p><strong>Things you can do:</strong>
       <?php
         $things = array("Talk to databases",
